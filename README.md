@@ -24,8 +24,13 @@ The goal of this guide is to provide a structured approach to learning Go, cover
 ## 📚 Topics Covered
 
 1. **Introduction**
+   - intro
 
 2. **Getting Started with Go**
+   - basic syntax
+   - format printing
+   - unicode
+   - raw string literal
 
 ---
 
