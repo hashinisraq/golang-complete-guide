@@ -1,0 +1,18 @@
+GO VS GOLANG:
+	• "Go" is the official name of the programming language created by Google in 2009. It was designed for simplicity, efficiency, and scalability, making it ideal for modern software development needs, such as cloud services, distributed systems, and microservices.
+
+	• "Golang" is a nickname that came about because the domain name for the official website is golang.org. Developers started using "Golang" to refer to Go informally, especially in online searches, because "Go" is a common word and harder to search for.
+	
+
+CONCURRENCY: Code Design Pattern
+
+PARALLELISM: Running code on computer on multiple cores parallel.
+
+WHY GOOGLE CREATED GO:
+	• Efficient Compilation
+	• Efficient Execution
+	• Ease of Programming
+
+Comparison:
+    1.  https://i.ibb.co.com/wrNp9pz/image.png
+    2.  https://i.ibb.co.com/S3CRcSG/image.png 
