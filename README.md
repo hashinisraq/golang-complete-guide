@@ -32,6 +32,10 @@ The goal of this guide is to provide a structured approach to learning Go, cover
    - unicode
    - raw string literal
 
+3. **Hands-on-Exercise #1**
+   - print out a some text with emojis
+   - print out a raw string literal
+
 ---
 
 ## 🛠 Prerequisites
