@@ -42,6 +42,7 @@ The goal of this guide is to provide a structured approach to learning Go, cover
 
 - Basic understanding of programming (optional, but helpful)
 - Go installed on your machine ([Installation Guide](https://go.dev/doc/install))
+- To run any go file, just go to that directory and open any terminal/cmd, run `go run filename.go`
 
 ---
 
