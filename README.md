@@ -53,5 +53,5 @@ The goal of this guide is to provide a structured approach to learning Go, cover
 
 Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/golang-complete-guide.git
+   git clone https://github.com/hashinisraq/golang-complete-guide.git
    cd golang-complete-guide
