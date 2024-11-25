@@ -36,6 +36,9 @@ The goal of this guide is to provide a structured approach to learning Go, cover
    - print out a some text with emojis
    - print out a raw string literal
 
+4. **The Fundamentals of Go**
+   - variables-zero values-blank identifier
+
 ---
 
 ## 🛠 Prerequisites
