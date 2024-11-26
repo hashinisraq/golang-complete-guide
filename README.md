@@ -38,6 +38,7 @@ The goal of this guide is to provide a structured approach to learning Go, cover
 
 4. **The Fundamentals of Go**
    - variables-zero values-blank identifier
+   - use prinft for decimal and hexadecimal values
 
 ---
 
