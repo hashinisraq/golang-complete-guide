@@ -40,7 +40,8 @@ The goal of this guide is to provide a structured approach to learning Go, cover
    - [variables-zero values-blank identifier](04.%20The%20Fundamentals%20of%20Go/1_variables-zero%20values-blank%20identifier.go)
    - [use prinft for decimal and hexadecimal values](04.%20The%20Fundamentals%20of%20Go/2_use-prinft-for-decimal-and-hexadecimal-values.go)
    - [numeral systems decimal binary hexadecimal](04.%20The%20Fundamentals%20of%20Go/3_numeral-systems-decimal-binary-hexadecimal.md)
-   - [values types conversion scope and housekeeping](04.%20The%20Fundamentals%20of%20Go/4_values-types-conversion-scope-and-housekeeping.go)
+   - [values types conversion, scope and housekeeping](04.%20The%20Fundamentals%20of%20Go/4_values-types-conversion-scope-and-housekeeping.go)
+   - [built-in types, aggregate types and composition](04.%20The%20Fundamentals%20of%20Go/5_built-in-types-aggregate-types-and-composition.md)
 
 ---
 
