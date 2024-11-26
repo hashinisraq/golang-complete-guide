@@ -27,10 +27,10 @@ The goal of this guide is to provide a structured approach to learning Go, cover
    - [intro](01.%20Introduction/intro.md)
 
 2. **Getting Started with Go**
-   - basic syntax
-   - format printing
-   - unicode
-   - raw string literal
+   - [basic syntax](02.%20Getting%20Started%20With%20Go/1_basic_syntax.go)
+   - [format printing](02.%20Getting%20Started%20With%20Go/2_format_printing.go)
+   - [unicode](02.%20Getting%20Started%20With%20Go/3_unicode.go)
+   - [raw string literal](02.%20Getting%20Started%20With%20Go/4_raw_string_literal.GO)
 
 3. **Hands-on-Exercise #1**
    - print out a some text with emojis
