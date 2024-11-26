@@ -33,8 +33,8 @@ The goal of this guide is to provide a structured approach to learning Go, cover
    - [raw string literal](02.%20Getting%20Started%20With%20Go/4_raw_string_literal.GO)
 
 3. **Hands-on-Exercise #1**
-   - print out a some text with emojis
-   - print out a raw string literal
+   - [print out a some text with emojis](03.%20Hands-on-Exercise%20#1/1_text-with-emoji.go)
+   - [print out a raw string literal](03.%20Hands-on-Exercise%20#1/2_raw-string-literal.go)
 
 4. **The Fundamentals of Go**
    - variables-zero values-blank identifier
