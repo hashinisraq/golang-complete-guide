@@ -6,13 +6,13 @@
 
 ---
 
-## Concurrency
+## GO Support Concurrency
 
 A code design pattern for structuring programs that can perform multiple tasks independently.
 
 ---
 
-## Parallelism
+## GO Support Parallelism
 
 Running code on multiple cores of a computer in parallel for increased efficiency.
 
