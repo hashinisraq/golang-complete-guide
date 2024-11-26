@@ -24,7 +24,7 @@ The goal of this guide is to provide a structured approach to learning Go, cover
 ## 📚 Topics Covered
 
 1. **Introduction**
-   - [Intro](01.Introduction/intro.txt)
+   - [Intro](01. Introduction/intro.txt)
 
 2. **Getting Started with Go**
    - basic syntax
